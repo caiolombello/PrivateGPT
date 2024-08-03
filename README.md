@@ -1,7 +1,9 @@
-# Private GPT
+![PGPT Logo](./images/logo.png)
 
 ## Description
 **Private GPT** is a customized version of OpenAI's ChatGPT, designed to provide a powerful and versatile interaction experience with artificial intelligence technologies. This assistant can transform how you utilize AI in various daily applications.
+
+![PGPT Interface](./images/pgpt-interface.png)
 
 ## Features
 - **Interactive Chat**: View your OpenAI balance, create and manage different chats, and switch assistants during a conversation.
